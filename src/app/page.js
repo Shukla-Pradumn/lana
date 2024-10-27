@@ -248,7 +248,7 @@ export default function Home() {
             this world-class reputation.
           </p>
           <button
-            className="bg-lanaDarkBlue h-auto ff-MrEavesModOTReg"
+            className="bg-blue h-auto ff-MrEavesModOTReg"
             onClick={() => setIsDrawerOpen(true)}
             onBlur={() => setIsDrawerOpen(false)}
             style={{
@@ -515,7 +515,7 @@ export default function Home() {
               Dorchester Collection, and embrace a lifestyle, like no other.
             </p>
             <button
-              className="bg-lanaDarkBlue p-3 h-auto ff-MrEavesModOTReg"
+              className="bg-blue p-3 h-auto ff-MrEavesModOTReg"
               onClick={() => setIsDrawerOpen(true)}
               onBlur={() => setIsDrawerOpen(false)}
             >

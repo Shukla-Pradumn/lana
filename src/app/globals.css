@@ -131,6 +131,11 @@ a {
   height: 580px !important;
   color: white;
 }
+.bg-blue {
+  --tw-bg-opacity: 1;
+  background-color: rgb(5 28 44 / var(--tw-bg-opacity));
+  color: white;
+}
 .inputItem {
   padding-top: 0.875rem;
   padding-bottom: 0.875rem;
