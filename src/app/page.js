@@ -156,7 +156,7 @@ export default function Home() {
               exceptional place to call home.
             </p>
             <p className="ff-MrEavesModOTReg para">
-              OMNIYAT's visionary approach to shaping Marasi Bay into an
+              OMNIYAT&lsquo;s visionary approach to shaping Marasi Bay into an
               ultra-luxury waterfront destination is showcased with The Lana
               Residences, and further masterpieces managed by Dorchester
               Collection, which will continue to enhance this prestigious
@@ -206,7 +206,7 @@ export default function Home() {
             of world-renowned talents, Foster + Partners and Gilles & Boissier.
           </p>
           <p className="ff-MrEavesModOTReg para">
-            Foster + Partners' expertise illuminates two distinct towers,
+            Foster + Partners&lsquo; expertise illuminates two distinct towers,
             ensuring ultimate privacy. The interconnected design of these towers
             enhances the overall experience with the promise of a home of
             incomparable delight.
@@ -591,10 +591,11 @@ export default function Home() {
           </p>
           <p className="ff-MrEavesModOTReg para">
             We elevate the exceptional to create immersive living masterpieces
-            framed by Dubai's iconic skylines. Since our establishment in 2005,
-            OMNIYAT has redefined each project as an extraordinary, rare piece
-            of art, partnering with global pioneers such as Foster + Partners,
-            Zaha Hadid, Gilles & Boissier, Dorchester Collection and more.
+            framed by Dubai&lsquo;s iconic skylines. Since our establishment in
+            2005, OMNIYAT has redefined each project as an extraordinary, rare
+            piece of art, partnering with global pioneers such as Foster +
+            Partners, Zaha Hadid, Gilles & Boissier, Dorchester Collection and
+            more.
           </p>
           <p className="ff-MrEavesModOTReg para">
             The OMNIYAT touch lies in our ability to enhance experiences and

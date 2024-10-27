@@ -6,7 +6,8 @@
     "dev": "next dev & npx next-video sync -w",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "lint:fix": "next lint --fix"
   },
   "dependencies": {
     "aos": "^2.3.4",
@@ -22,7 +23,7 @@
     "swiper": "^11.1.14"
   },
   "devDependencies": {
-    "eslint": "^8",
+    "eslint": "^8.57.1",
     "eslint-config-next": "14.2.16"
   }
 }
